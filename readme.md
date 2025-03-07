@@ -1,3 +1,8 @@
+<div i="badges" align="center">
+ <a href="https://github.com/Dimensio305">
+ <img src="https://img.shields.io/badge/GitHub-purple?style=for-the-badge&logo=discord&logoColor=white" alt="GitHub logo"> </a>
+ <img src="https://komarev.com/ghpvc/?username=Dimensio&style=for-the-badge&color=blue" alt="Profil views counter"/>
+</div>
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
