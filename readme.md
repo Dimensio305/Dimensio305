@@ -32,6 +32,7 @@
 ---
 ## My stats
 
-![Dimensio305's Stats](https://github-readme-stats.vercel.app/api?username=Dimensio305&theme=synthwave&show_icons=true&hide_border=false&count_private=true)
+![Dimensio305's Stats](https://github-readme-stats.vercel.app/api?username=Dimensio305&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 ![Dimensio305's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimensio305&theme=synthwave&show_icons=true&hide_border=false&layout=compact)
 
